@@ -108,7 +108,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "@tera_baap_katil"
+        user.first_name = "@full_masti_chatting_group"
     usar = user
     wew = usar.id
     try:
@@ -166,11 +166,11 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="📨𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/heartbrokenperson1"),
+                            url=f"https://t.me/p_k_musicbot_channel"),
                             
                     InlineKeyboardButton(
                             text="📨𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/FULL_MASTI_CLUBS")
+                            url=f"https://t.me/full_masti_chatting_group")
                ],
                
             ]
@@ -210,11 +210,11 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="📨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/HEARTBROKENPERSON1"),
+                            url=f"https://t.me/p_k_musicbot_channel"),
                             
                     InlineKeyboardButton(
                             text="📨 𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/FULL_MASTI_CLUBS")
+                            url=f"https://t.me/full_masti_chatting_group")
                ],
                
             ]
@@ -231,11 +231,11 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="📨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/HEARTBROKENPERSON1"),
+                            url=f"https://t.me/p_k_musicbot_channel"),
                             
                     InlineKeyboardButton(
                             text="📨 𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/FULL_MASTI_CLUBS")
+                            url=f"https://t.me/full_masti_chatting_group")
                ],
                
             ]
@@ -290,11 +290,11 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="📨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/HEARTBROKENPERSON1"),
+                            url=f"https://t.me/p_k_musicbot_channel"),
                             
                     InlineKeyboardButton(
                             text="📨 𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/FULL_MASTI_CLUBS")
+                            url=f"https://t.me/full_masti_chatting_group")
                ],
                
             ]
